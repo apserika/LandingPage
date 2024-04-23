@@ -1,0 +1,4 @@
+.interactive-bg [
+  cursor: pointer;
+  transition: transform 0.5s
+]
